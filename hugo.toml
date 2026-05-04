@@ -43,3 +43,26 @@ pagination.pagerSize = 5
     identifier = "about"
     name = "About"
     url = "/about"
+  [[languages.en.menu.main]]
+    identifier = "join"
+    name = "Join"
+    url = "/join"
+  [[languages.en.menu.main]]
+    identifier = "paperwork"
+    name = "Paperwork"
+    weight = 0
+  [[languages.en.menu.main]]
+    identifier = "code-of-conduct"
+    name = "Code of Conduct"
+    url = "/code-of-conduct"
+    parent = "paperwork"
+  [[languages.en.menu.main]]
+    identifier = "financial"
+    name = "Financial Transparency"
+    url = "/financial"
+    parent = "paperwork"
+  [[languages.en.menu.main]]
+    identifier = "governance"
+    name = "Governance"
+    url = "/governance"
+    parent = "paperwork"
