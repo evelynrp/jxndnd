@@ -1,5 +1,5 @@
 +++
-title = "Hello!"
+title = "Introducing Dice & Distros"
 date = "2026-05-03"
 author = "Evelyn"
 hideComments=true
@@ -7,10 +7,14 @@ hideComments=true
 
 ![Venn diagram](/img/venn.svg)
 
-Jackson doesn't always make it easy to find your people. It's a town that can feel isolating, especially if you're queer and your hobbies run toward the nerdy end of the spectrum. We started this group because we believed something better was possible: a space where trans people could show up as their full selves, roll some dice, and maybe learn why Linux is actually kind of cool.
+There really is a weird intersection between the LGBT+ community, tabletop gaming, and open source. There's also a shocking lack of community in Jackson, Michigan.
 
-We're a tabletop and open source community for trans and queer folks in the Jackson area. That means board games, TTRPGs, and the occasional deep dive into why Linux and free software are worth getting excited about. It means a table where you don't have to explain yourself before you sit down. It means meeting people in this city who get it.
+My goal in starting this group is to help build sustainable, scaleable, grassroots community infrastructure. I know that sounds lofty, so I won't dwell on it much. For now, I'll just say that I hope to create and disseminate standard operating procedures (SOPs), event toolkits, and the like to make it easier for *anybody* to run similar events and groups without having to replicate quite so much of the logistical work.
 
-Open source software and tabletop gaming have more in common than you'd think. Both are built on the idea that the best things happen when people share knowledge freely, collaborate, and make space for newcomers. We try to embody that. Whether you've been running campaigns for twenty years or you've never heard of a d20, whether you daily drive Arch or you're still figuring out what a terminal is, you're welcome here.
+In the meantime, our **real** goal is to play some games and talk about Linux!
 
-Jackson sucks, but we can make it suck less together.
+This group was conceived as a half-joke earlier today. The website was developed and deployed, and the domain purchased, over the course of the afternoon and evening. In the coming days, I plan to set up some basic infrastructure on Discord, Mastodon, Matrix, and/or MeetUp. Scheduling and location will be announced once they are determined.
+
+While things are getting set up, feel free to reach out to [info@dicendistros.com](mailto:info@dicendistros.com) with any ideas, questions, or concerns. You can also find my personal blog at [evelynpark.com](https://evelynpark.com) if you want to learn a little about me before placing your DnD character's life in my hands.
+
+Bad at conclusions. Pretend I said something appropriately aspirational.
