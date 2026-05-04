@@ -10,7 +10,7 @@
 
     {{ $PageContext := . }}
     {{ if .IsHome }}
-      <img src="/img/hero.jpg">
+      <img src="/img/hero.jpg" style="width:100%; display:block; margin-top:1.5rem; margin-bottom:1rem;">
       {{ $PageContext = .Site }}
     {{ end }}
     {{ $paginator := .Paginate (where $PageContext.RegularPages "Type" $contentTypeName) }}
