@@ -1,0 +1,27 @@
+<svg width="680" height="560" viewBox="0 0 680 560" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Venn diagram: Trans people, Linux users, and Tabletop gamers</title>
+  <desc>Three overlapping circles with a large central intersection, colored with trans flag colors.</desc>
+
+  <circle cx="340" cy="200" r="165" fill="#E8779A" fill-opacity="0.75" stroke="#C45070" stroke-width="1.5"/>
+  <circle cx="235" cy="360" r="165" fill="#5BB8DC" fill-opacity="0.75" stroke="#3A8FB5" stroke-width="1.5"/>
+  <circle cx="445" cy="360" r="165" fill="#D8D8E8" fill-opacity="0.85" stroke="#9090AA" stroke-width="1.5"/>
+
+  <text x="340" y="98" text-anchor="middle"
+        font-family="Comic Sans MS, Comic Sans, cursive"
+        font-size="20" font-weight="bold"
+        fill="#111111" stroke="white" stroke-width="4"
+        paint-order="stroke fill">Trans people</text>
+
+  <text x="118" y="480" text-anchor="middle"
+        font-family="Comic Sans MS, Comic Sans, cursive"
+        font-size="20" font-weight="bold"
+        fill="#111111" stroke="white" stroke-width="4"
+        paint-order="stroke fill">Linux users</text>
+
+  <text x="560" y="480" text-anchor="middle"
+        font-family="Comic Sans MS, Comic Sans, cursive"
+        font-size="20" font-weight="bold"
+        fill="#111111" stroke="white" stroke-width="4"
+        paint-order="stroke fill">Tabletop gamers</text>
+
+</svg>
