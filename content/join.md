@@ -13,4 +13,4 @@ Our events are published on Eventbrite for visibility. Tickets are free and **ar
 
 [Follow us on Mastodon @dicendistros@mastodon.social.](https://mastodon.social/@dicendistros)
 
-[Subscribe to this blog's RSS feed.](/index.xml)
+[Subscribe to this blog's RSS feed.](/posts/index.xml)
