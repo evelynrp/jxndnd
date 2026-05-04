@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://evelynrp.github.io/jxndnd/"
 languageCode = "en-us"
 theme = "re-terminal"
 pagination.pagerSize = 5
